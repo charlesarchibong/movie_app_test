@@ -1,0 +1,1 @@
+class NoInterterException implements Exception {}
